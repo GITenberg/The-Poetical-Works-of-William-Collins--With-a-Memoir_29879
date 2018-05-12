@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34222
     wikipedia: http://en.wikipedia.org/wiki/William_Collins_(poet)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29879#The-Poetical-Works-of-William-Collins--With-a-Memoir
 gutenberg_issued: '2009-08-31'
 gutenberg_type: Text
 identifiers:
