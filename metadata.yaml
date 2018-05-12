@@ -1,0 +1,52 @@
+_repo: The-Poetical-Works-of-William-Collins--With-a-Memoir_29879
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Brydges, Egerton, Sir
+    aliases:
+    - Chandos of Sudeley, Samuel Egerton Brydges
+    - Chandos, Samuel Egerton Brydges, baron
+    - Brydges, Samuel Egerton, Sir, bart.
+    birthdate: 1762
+    deathdate: 1837
+    gutenberg_agent_id: '34224'
+    url: http://www.gutenberg.org/2009/agents/34224
+  - agent_name: Langhorne, John
+    birthdate: 1735
+    deathdate: 1779
+    gutenberg_agent_id: '34225'
+    url: http://www.gutenberg.org/2009/agents/34225
+  - agent_name: Nicolas, Nicholas Harris, Sir
+    aliases:
+    - Nicholas, Nicholas Harris, Sir
+    - Nicolas, Harris, Sir
+    birthdate: 1799
+    deathdate: 1848
+    gutenberg_agent_id: '32389'
+    url: http://www.gutenberg.org/2009/agents/32389
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, William
+    birthdate: 1721
+    deathdate: 1759
+    gutenberg_agent_id: '34222'
+    url: http://www.gutenberg.org/2009/agents/34222
+    wikipedia: http://en.wikipedia.org/wiki/William_Collins_(poet)
+description: ''
+gutenberg_issued: '2009-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29879'
+  lccn: '10004308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: The Poetical Works of William Collins; With a Memoir
+url: http://www.gutenberg.org/ebooks/29879
